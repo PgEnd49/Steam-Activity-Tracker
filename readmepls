@@ -1,0 +1,14 @@
+hello!!! This code is designed to show the steam activity of your or your friends' accounts. how does it work? in the line "Enter ID or numeric Steam ID:" do you write a name or numbers
+from where to get them? 
+example: do you have a link to your account? https://steamcommunity.com/id/UserName / you just write UserName and that's it!
+
+привет!!! это код сделан для того чтобы показывать активности стим ваших или ваших друзей аккаунтов. как это работает? в строку "Enter ID or numeric Steam ID:" вы пишите имя или цифры
+откуда их взять? 
+пример: у вас есть ссылка на аккаунт https://steamcommunity.com/id/UserName/ вы берёте и пишите ТОЛЬКО UserName и всё! 
+
+NEED:
+necessary pip libraries
+"requests beautifulsoup4 lxml"
+НУЖНО:
+нужные pip библиотеки
+"requests beautifulsoup4 lxml"
